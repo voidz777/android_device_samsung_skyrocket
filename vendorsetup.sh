@@ -1,0 +1,3 @@
+add_lunch_combo cm_skyrocket-eng
+add_lunch_combo mahdi_skyrocket-userdebug
+
